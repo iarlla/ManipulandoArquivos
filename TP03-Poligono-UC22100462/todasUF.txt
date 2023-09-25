@@ -1,0 +1,243 @@
+Nome do Estado: Acre
+UF:  AC
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Alagoas
+UF:  AL
+Quantidade de Vértices: 3
+Pares de Vértices:
+(2.55, 6.99)
+(8.90, 4.89)
+(3.45, 7.65)
+Área: 3.04 km²
+
+Nome do Estado: Amapá
+UF:  AP
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Amazonas
+UF:  AM
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Bahia
+UF:  BA
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Ceará
+UF:  CE
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Distrito Federal
+UF:  DF
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Espírito Santo
+UF:  ES
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Goiás
+UF:  GO
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Maranhão
+UF:  MA
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Mato Grosso
+UF:  MT
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Mato Grosso do Sul
+UF:  MS
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Minas Gerais
+UF:  MG
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Pará
+UF:  PA
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Paraíba
+UF:  PB
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Paraná
+UF:  PR
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Pernambuco
+UF:  PE
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Piauí
+UF:  PI
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Rio de Janeiro
+UF:  RJ
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Rio Grande do Norte
+UF:  RN
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Rio Grande do Sul
+UF:  RS
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Rondônia
+UF:  RO
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Roraima
+UF:  RR
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Santa Catarina
+UF:  SC
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: São Paulo
+UF:  SP
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Sergipe
+UF:  SE
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
+Nome do Estado: Tocantins
+UF:  TO
+Quantidade de Vértices: 3
+Pares de Vértices:
+(8.00, 7.00)
+(6.00, 7.00)
+(3.00, 2.00)
+Área: 5.00 km²
+
